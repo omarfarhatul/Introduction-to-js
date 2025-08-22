@@ -12,4 +12,27 @@ console.log(mul);
 console.log(div);
 console.log(rem);
 
+// some calculation
+var price = 35;
+price+=10;
+console.log(price);
+
+var fridge = 25000;
+fridge-=1000;
+console.log(fridge);
+
+var eggPrice= 40;
+eggPrice*=5;
+console.log(eggPrice);
+
+// mixedOP
+var first ='Mobarok';
+var second ='Tobarok';
+
+var fullName = first + second;
+console.log(fullName);
+
+console.log('3'+545);
+console.log('3'-2);
+
 
